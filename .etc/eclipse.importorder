@@ -1,0 +1,8 @@
+#Organize Import Order
+#Sat Sep 30 04:00:00 EEST 2017
+5=eu
+4=ee
+3=com
+2=org
+1=javax
+0=java
